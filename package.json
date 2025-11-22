@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mrahmed0702.github.io/Frontend-4_Week-1-Project_Nov-22/",
+  "homepage": "https://mrahmed0702.github.io/cryptoMarket/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
